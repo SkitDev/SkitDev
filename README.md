@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Uploading standard.gif…]()
+![standard](https://github.com/user-attachments/assets/c3bbdd4a-e565-4c97-8dac-388784ab234c)
 
 - 🔭 I’m currently working on ZeroSkid!
 - 📫 How to reach me: altwixy on  discord!
