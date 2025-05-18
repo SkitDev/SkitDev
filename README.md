@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Uploading standard.gif…]()
+
 - 🔭 I’m currently working on ZeroSkid!
 - 📫 How to reach me: altwixy on  discord!
 - 😄 Pronouns: He/Him
